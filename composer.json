@@ -1,0 +1,14 @@
+{
+  "name": "haosheng0211/simplehtmldom",
+  "autoload": {
+    "files": [
+      "src/simple_html_dom.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "MrJin",
+      "email": "haosheng0211@gmail.com"
+    }
+  ]
+}
